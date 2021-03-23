@@ -68,10 +68,7 @@ aplicación es re-escribirla usando una nueva tecnología.
 
 ## 4. Consideraciones generales
 
-Este proyecto se debe "resolver" en duplas.
-
-Discutan y pónganse de acuerdo sobre cuál de los proyectos van a hacer desde cero.
-Si no se pueden poner de acuerdo en 10 minutos, [aquí hay algo que puede ayudar](https://justflipacoin.com/)
+Este proyecto se debe "resolver" de forma individual
 
 Investiguen un poco sobre estas tres herramientas propuestas (React, Angular y
 Vue) y elijan con cuál quieren trabajar.
