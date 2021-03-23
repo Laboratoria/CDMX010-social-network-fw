@@ -101,12 +101,6 @@ Antes de elegir un framework, te recomendamos leer los siguientes artículos:
 * [The deepest reason why modern JavaScript frameworks exist](https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445)
 * [Should I use frameworks or libraries such as Angular, React, or VueJS or not?](https://dev.to/ericpaulbasbas/should-i-use-frameworks-or-libraries-such-as-angular-react-or-vuejs-or-not-3dp)
 
-Hemos preparado algunos videos introductorios:
-
-* [Introducción a Frameworks de JavaScript (Lupo)](https://laboratoria-1.wistia.com/medias/22j8ut23y5)
-* [Introducción a Angular (Fabián)](https://laboratoria-1.wistia.com/medias/2dxpgs2s59)
-* [Introducción a React (Elizabeth)](https://es.reactjs.org/)
-* [Introducción a Vue (Luis)](https://vuejs.org/)
 
 No dejes de explorar la documentación oficial de cada herramienta:
 
